@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img width="100%" src="https://geeksblabla.community/.netlify/images?url=_astro%2Fgeeksblabla-campus-logo.BSuNnzs_.png"  />
+  <!--<img width="100%" src="https://geeksblabla.community/.netlify/images?url=_astro%2Fgeeksblabla-campus-logo.BSuNnzs_.png"  />-->
 </div>
 
 ###
